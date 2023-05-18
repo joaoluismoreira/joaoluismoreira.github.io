@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hi! My name is João and I'm currently a QA Engineer based in Portugal, working remotely for UK-based companies for the past 2 years.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I have around 10 years of experience in the IT industry, and my goal is to compile and share all the knowledge I have gathered through all these years regarding shifting to an IT career as well as improving and managing an IT career to one's goals.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I hope this knowledge helps you improve your current situation, regardless of whether you want to move into the industry without being a techie or if you are already here and just want to reach your career goals. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My tips will be more detailed within QA and development roles and will be more broad but still useful in Product Ownership and Engineering leadership.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+All this knowledge was **gained by getting to know the market in Europe and the UK, as well as sharing and openly talking about salaries, career decisions, benefits, and interviews** with all the people I've had the pleasure to work with. These people were performing multiple roles, and a lot of them even changed roles. 
+
+If these tips have helped you or you believe that they will have a positive impact on your career, please kindly consider buying me a coffee, or dropping me a message, or sharing these tips with colleagues.
