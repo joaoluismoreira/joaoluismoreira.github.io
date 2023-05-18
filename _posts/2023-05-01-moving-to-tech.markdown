@@ -4,49 +4,67 @@ title:  "Making the move to the tech industry"
 date:   2023-05-01 14:34:25
 categories: Update
 tags: featured
-image: /assets/article_images/2023-05-01-moving-to-tech/remoteworker_4xcropped.jpg
-image2: /assets/article_images/2023-05-01-moving-to-tech/remoteworker_4xcropped-mobile.jpg
+image: /assets/article_images/2023-05-01-moving-to-tech/coding-1853305.jpg
+image2: /assets/article_images/2023-05-01-moving-to-tech/coding-1853305-cropped.jpg
 ---
 # Reasons to move into the Tech industry
-Why would one want to move into the tech industry? For many reasons, if you like computers you may be happier if you move, maybe you are on a very populated and competetive field or just tired and want to try something new. Anyways, these are the main reasons I would sell to you to convince you as I did to many friends.
+Why would one want to move into the tech industry? For many reasons, I've convinced and helped some friends to change their careers to it, and all of them are way happier now. These are the main topics I sold them in order to make them come to the dark side!  
 
 ## Salary
-Salaries are overall higher in the tech industry. Since there is, currently, a lot of demand and not so much supply salaries tend to be higher when compared to other areas. For example a junior developer or qa can easily earn something between 30000€ to 40000€ gross/anual. The value significantly increases once that person gets to mid and senior level. A Senior developer or qa can earn something between 50000€ to 90000€. There are ofcourse people that earn even more, these ranges are what I find to be the most common and already including some very succesful cases regarding salary.
+Salaries are overall higher in the tech industry. Since there is, currently, a lot of demand and not so much supply salaries tend to be higher when compared to other areas. For example, a junior developer or qa can easily earn something between 30000€ to 40000€ gross/annual. The value significantly increases once that person gets to the mid and senior levels. A Senior developer or qa can earn something between 50000€ to 90000€. There are, of course, people that earn even more, these ranges are what I find to be the most common and already include some very successful cases regarding salary.
 
-List of data proving these values:
+[Average salaries in Europe in 2022](https://www.brightwater.ie/docs/default-source/it-salary-survey-202228990fac-17e4-44e9-a41e-358493ef5b63.pdf?sfvrsn=17a58676_1)
+[Average salaries in the USA in 2022](https://www.dice.com/technologists/ebooks/tech-salary-report/salary-trends.html)
+
+Bear in mind that multiple people living in Europe are working for US and UK-based companies where the salaries are higher than in Europe.
 
 ## Life Quality
 
-If you like remote working that is something that you can currently easily achieve in the tech industry. Even if you don't work fully remote a lot of companies offer hybrid formats, like 2 days in office and 3 days at home. Some companies are already offering 4 days work weeks instead of the traditional 5 days per week. Flexible schedule is very easy to find since most companies practice this somehow, this allows you to pick up your kids from school, go to the doctor, do anything you need to do during the day without being punished. People are usually quite happy and since there is not a lot of competition the work environment is usually healthy and fun.
+If you like remote working that is something that you can currently easily achieve in the tech industry. Even if you don't work fully remotely a lot of companies offer hybrid formats, like 2 days in the office and 3 days at home. Some companies are already offering 4 days work weeks instead of the traditional 5 days per week. A flexible schedule is very easy to find since most companies practice this somehow, this allows you to pick up your kids from school, go to the doctor, and do anything you need to do during the day without being punished. People are usually quite happy and since there is not a lot of competition the work environment is usually healthy and fun.
 
 ## Job stability
-Even people that are currently being laid off, since a lot of tech companies took a hit with the current economic situation, were able to quickly find another job doing the exact same thing and some times even increase their benefits (salary or other perks). People that were not laid off are still chaning when a better opportunity appears, this happens quite often. This leads me to conclude the market is still very much alive.
+Even people that are currently being laid off, since a lot of tech companies took a hit with the current economic situation, were able to quickly find another job doing the same thing and sometimes even increase their benefits (salary or other perks). People that were not laid off are still changing when a better opportunity appears, this happens quite often. This leads me to conclude the market is still very much alive.
 
-# How I moved into the tech industry
-I was on a horrible law internship experience for almost a year when I decided to quit and do something else as I was really unhappy there. Spent some months searcing when a good friend of mine talked me into trying a QA internship position on a german company that had an office in Portugal. I've been a complete nerd all my life and spent countless hours playing counter strike and other games in my old pc, so you can imagine that compared to the law intership the possibility of working testing software seemed way better to me. I studied the role to the best of my efforts and luckily I was accepted on the internship. My QA career started right there. After that I got hooked and started learning more and more. Eventually learned how to code automated tests (which, btw is not as hard as coding complex software) and started having even more fun performing my role.
+# How I shifted from the law sector into the tech industry
+I was on a horrible law internship experience for almost a year when I decided to quit and do something else as I was really unhappy there. Spent some months searching when a good friend of mine talked me into trying a QA internship position at a German company that had an office in Portugal. I've been a complete nerd all my life and spent countless hours playing Counter-Strike and other games on my old pc, so you can imagine that compared to the law internship the possibility of working testing software seemed way better to me. I studied the role to the best of my efforts and luckily I was accepted for the internship. My QA career started right there. After that, I got hooked and started learning more and more. Eventually learned how to code automated tests (which, btw is not as hard as coding complex software) and started having even more fun performing my role.
 
 # Possible pathways for entry
 There are many roles in the tech industry, I will mention the ones I know best and I believe to be the most common.
 
 ## Technical
-Technical roles will require technical experise, like coding, testing, being able to make technical configurations or use technical programs.
+Technical roles will require technical expertise, like coding, testing, and being able to make technical configurations or use technical programs.
 
 ### QA
-Quality Assurance, someone responsible for the quality or a portion (like a feature of a site, for instance, a cart feature on an ecommerce site) of the product for a business. This person will work along with the developers testing their code by 
-#### QA analyst
+Quality Assurance, someone responsible for the quality or a portion (like a feature of a site, for instance, a cart feature on an e-commerce site) of the product for a business. This person will work along with the developers testing their code, to find bugs, either manually or by creating automated tests. Additionally, this person's efforts are focused on the user of the application, and whatever task is done to help prevent the user experience to be broken falls within the QA range of possible duties.
+
+#### QA Analyst
+
+This kind of QA role tends to be focused on the analytical side of the job. You won't usually see this person coding any automated tests, or configuring tests to run in an automated way. You will see them focused on mimicking the user in their tests and trying to protect the user's expectations about the respective application. In my opinion, it is still a technical role, although there is a lot of point-and-click testing, these QAS will use a lot of technical programs to be able to test the application. They are usually a good source of information on how the application should work and what are customer expectations. Coaching developers on quality assurance good practices is also a big portion of this role.
 #### QA Engineer
+
+I see this role as an extension of the first one. In my mind, the QA engineer can do everything a QA analyst would do but will have the extra capability of creating test automation suites and configuring those to run in an automated way. They are also able to review test code by their developer peers and perform other types of non-functional tests, like performance or stress tests. They are usually focusing their time on generating and maintaining automated tests sharing that effort with their developer peers. Coaching developers on quality assurance good practices is also a big portion of this role.
+
 ### Developer
+
+If the QA is testing code the one who developed such code was the developer. These guys are the ones building the application which, if it works as expected, will generate the business some money. QA is there to help prevent the business from losing money by reducing the number of bugs that get to and affect the customers.
+
 #### Full stack
+
+This kind of developer can code multiple systems required for an app to work. They will build the services (the logic part of the application) and the layout system (the pretty part of the application, or in other words the User Interface). They have a good range of knowledge and can help out when a team needs someone for either backend (services) or the frontend (User Interface). These guys, because of the nature of their role, need to know how to use more technologies and coding languages.
+
 #### FE
+
+This guy is focusing his skills and efforts on the layout of the application. They need to handle multiple browsers and are usually good with javascript as well as HTML and CSS.
+
 #### Backend
 #### iOS
 #### Android
-#### Devops
+#### DevOps
 ### Team lead
 
-## Non technical
+## Non-technical
 ### Agile Coach/Scrum Master
 ### Product Owner
 ### Team lead
 
-# Recomendations
+# Recommendations
