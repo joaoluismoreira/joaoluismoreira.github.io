@@ -14,4 +14,4 @@ My tips will be more detailed within QA and development roles and will be more b
 
 All this knowledge was **gained by getting to know the market in Europe and the UK, as well as sharing and openly talking about salaries, career decisions, benefits, and interviews** with all the people I've had the pleasure to work with. These people were performing multiple roles, and a lot of them even changed roles. 
 
-If these tips have helped you or you believe that they will have a positive impact on your career, please kindly consider buying me a coffee, or dropping me a message, or sharing these tips with colleagues.
+If these tips have helped you or you believe that they will have a positive impact on your career, please kindly consider clicking on the <u>support me</u> button located on the bottom left of the page and support this work with a small amount donation. Please also feel free to drop me a message on linkedin or email with any feedback or suggestion and please share these tips with colleagues anf friends.
