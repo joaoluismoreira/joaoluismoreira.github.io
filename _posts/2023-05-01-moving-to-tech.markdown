@@ -116,4 +116,4 @@ In my own experience and from what I usually see happening the most common entry
 
 Worth noticing that once you are in the tech scene it is doable to change roles. I've seen countless times people going from Developer to team lead, or from QA to Team lead, or from QA to Product Owner, and so on.
 
-My advice is that you set a goal and start looking for the next steps. Maybe enroll on some courses to learn the skills, maybe look for some courses that guarantee an internship place them (they are pricey but make a big difference). 
+My advice is that you set a goal and start looking for the next steps. Maybe enroll in some online courses to learn the skills (like coding or testing), and/or look for some courses or training that guarantee an internship placement (they are pricey but make a big difference). 
